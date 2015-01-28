@@ -1,7 +1,3 @@
-# Artifact
-A simple yet hypnotizing Android game.
-
-
 ##Artifact
 
 A simple yet hypnotizing Android game that I made in 2013.
